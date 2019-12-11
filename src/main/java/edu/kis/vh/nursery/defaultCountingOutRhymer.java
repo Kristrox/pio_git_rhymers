@@ -31,4 +31,6 @@ public class defaultCountingOutRhymer {
 		return NUMBERS[total--];
 	}
 
+	// Powoduje przejście pomiędzy aktywnymi plikami
+
 }
